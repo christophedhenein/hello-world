@@ -1,3 +1,10 @@
+<jsp-config>
+    <jsp-property-group>
+        <url-pattern>*.jsp</url-pattern>
+        <page-encoding>UTF-8</page-encoding>
+    </jsp-property-group>
+</jsp-config>
+
 <form action="action_page.php">
   <div class="container">
     <h1>Register DevOps CICD Pipelines - Christophe Dhénein</h1>
