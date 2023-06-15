@@ -1,7 +1,7 @@
 
 <form action="action_page.php">
   <div class="container">
-    <h1>DevOps CICD (Docker) Pipelines - By: The famous Christophe De Henein</h1>
+    <h1>DevOps CICD (Docker) Pipelines - By: Christophe De Henein</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
