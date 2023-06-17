@@ -1,7 +1,7 @@
 
 <form action="action_page.php">
   <div class="container">
-    <h1>DevOps CICD (Docker) Pipelines - By: Christophe Mon Amour</h1>
+    <h1>DevOps CICD (Docker) Pipelines - By: Quark Gable</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
