@@ -2,7 +2,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>DevOps CICD (Docker) Pipelines - By: Quark Gable</h1>
-    <p>Please fill in this form to create your FUCKING account ASS HOLE</p>
+    <p>Please fill in this form to create your FUCKING account ASS HOLE !!!</p>
     <hr>
 
     <label for="name"><b>Name</b></label>
