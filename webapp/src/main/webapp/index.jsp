@@ -15,6 +15,11 @@
     <br>
     <br>
 
+    <label for="mobile"><b>Mobile Phone</b></label>
+    <input type="text" placeholder="Enter Mobile Phone" name="mobile" id="mobile" required>
+    <br>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
